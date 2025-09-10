@@ -71,3 +71,7 @@ This query identified six standout years: **1997, 1998, 2004, 2008, 2009, and 20
 While an error prevented the analysis of the all-time best-selling games, the investigation into critic and user scores provided clear insights. The data strongly suggests that a "golden age" of video games did occur, centered around the late 1990s and again in the late 2000s.
 
 With its top ranking from critics and high marks from users, **1998 stands out as a peak year in video game history**. Based on this analysis of review scores, the golden age appears to be a period in the past, defined by widespread critical and commercial acclaim.
+
+### Tools
+
+- **SQL**
