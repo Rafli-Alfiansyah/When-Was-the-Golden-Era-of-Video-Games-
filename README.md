@@ -1,5 +1,8 @@
 # The Search for the Golden Age of Video Games
 
+![video_game](https://github.com/user-attachments/assets/f66a16b8-3084-4ed2-88ce-76c0581038b1)
+
+
 ## An Analysis of Sales and Scores
 
 The global gaming market is a multi-billion dollar industry, and with so much at stake, publishers are always striving to create the next big hit. This raises a question for gamers and industry analysts alike: Are games getting better, or has the golden age of video games already passed?
